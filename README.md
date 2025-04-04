@@ -24,4 +24,4 @@ Committed to delivering impactful data solutions.
 
 ##  Connect with Me:
 
-[LinkedIn](#) | [Email](Olaniyipopoola18@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/popoola-iyanuoluwa-817901336/) | [Email](Olaniyipopoola18@gmail.com)
