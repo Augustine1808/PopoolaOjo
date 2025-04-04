@@ -16,7 +16,7 @@ Committed to delivering impactful data solutions.
 - *Visualization:* Power BI, Matplotlib  
 
 ##  Featured Projects:
-
+Car Price Analysis [Car Price]()
 
 ##  Certifications:
 
