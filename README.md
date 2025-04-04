@@ -24,4 +24,4 @@ Committed to delivering impactful data solutions.
 
 ##  Connect with Me:
 
-[LinkedIn](#) | [Email](#Olaniyipopoola18@gmail.com)
+[LinkedIn](#) | [Email](Olaniyipopoola18@gmail.com)
