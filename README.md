@@ -1,5 +1,4 @@
-
-# Popoola Iyanuoluwa Ojo| Data Analyst
+# Popoola Iyanuoluwa Ojo | Data Analyst
 
 Data Analyst proficient in:
 
@@ -10,8 +9,19 @@ Data Analyst proficient in:
 
 Committed to delivering impactful data solutions.
 
-## 🔗 Skills:
+##  Skills:
 
 - *Data Analysis:* SQL, Python (Pandas, Matplotlib), Power BI, Tableau, Excel  
 - *Databases:* SQL Server  
-- *Visualization:* Power BI, Matplotlib
+- *Visualization:* Power BI, Matplotlib  
+
+##  Featured Projects:
+
+
+##  Certifications:
+
+- Cirvee Tech Academy  
+
+##  Connect with Me:
+
+[LinkedIn](#) | [Email](#)
