@@ -20,7 +20,7 @@ Car Price Analysis [Car Price](https://github.com/Augustine1808/Car-Price-Analys
 
 Data Cleaning On Data Professional Survey [Data Professional Survey](https://github.com/Augustine1808/Data-Professional-Survey)
 
-Sales Peformance Analysis [Sales Performance Analysis](https://github.com/Augustine1808/Data-Professional-Survey)
+Sales Peformance Analysis [Sales Performance Analysis](https://github.com/Augustine1808/Sales-Performance-Analysis)
 
 ##  Certifications:
 
