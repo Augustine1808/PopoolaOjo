@@ -22,6 +22,8 @@ Data Cleaning On Data Professional Survey [Data Professional Survey](https://git
 
 Sales Peformance Analysis [Sales Performance Analysis](https://github.com/Augustine1808/Sales-Performance-Analysis)
 
+Personal Finance Tracker [Personal Finance Tracker](https://github.com/Augustine1808/Personal-Finance-Tracker)
+
 ##  Certifications:
 
 - Cirvee Tech Academy  
