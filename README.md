@@ -29,9 +29,9 @@ Altera Employee Analysis [Altera HR Analysis](https://github.com/Augustine1808/A
 ##  Certifications:
 
 - Cirvee Tech Academy 2025
-- 
+
 - Data Analytics Job simulation 2025 
 
 ##  Connect with Me:
 
-[LinkedIn](https://www.linkedin.com/in/popoola-iyanuoluwa-817901336/) | [Email](Olaniyipopoola18@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/popoola-iyanuoluwa-817901336/) | [Email](Olaniyipopoola18@gmail.com)  | [Portfolio](https://www.datascienceportfol.io/Olaniyipopoola18)
