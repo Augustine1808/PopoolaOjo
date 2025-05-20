@@ -16,7 +16,7 @@ Committed to delivering impactful data solutions.
 - *Visualization:* Power BI, Matplotlib  
 
 ##  Featured Projects:
-Automotive Data Analysis[Car Price](https://github.com/Augustine1808/Car-Price-Analysis)](https://github.com/Augustine1808/Automotive-Data-Analysis)
+Automotive Data Analysis[Automtive Data Analysis](https://github.com/Augustine1808/Automotive-Data-Analysis)
 
 Data Cleaning On Data Professional Survey [Data Professional Survey](https://github.com/Augustine1808/Data-Professional-Survey)
 
