@@ -24,9 +24,13 @@ Sales Peformance Analysis [Sales Performance Analysis](https://github.com/August
 
 Personal Finance Tracker [Personal Finance Tracker](https://github.com/Augustine1808/Personal-Finance-Tracker)
 
+Altera Employee Analysis [Altera HR Analysis](https://github.com/Augustine1808/Altera-HR-Analysis)
+
 ##  Certifications:
 
-- Cirvee Tech Academy  
+- Cirvee Tech Academy 2025
+- 
+- Data Analytics Job simulation 2025 
 
 ##  Connect with Me:
 
